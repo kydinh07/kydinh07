@@ -17,3 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KYDINH07&icon=4&color=0)](https://visitcount.itsvg.in)
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats\&show_owner=true)
