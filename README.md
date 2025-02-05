@@ -19,5 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=KYDINH07&icon=4&color=0)](https://visitcount.itsvg.in)
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats\&show_owner=true)
-[monokai]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kydinh07\&repo=real-time-chat\&show_owner=true)
+
